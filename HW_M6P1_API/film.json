@@ -1,0 +1,20 @@
+﻿[
+  {
+    "FilmId": 1,
+    "Name": "Elvis",
+    "Year": 2022,
+    "Price": 10
+  },
+  {
+    "FilmId": 2,
+    "Name": "Bohemian Rhapsody",
+    "Year": 2018,
+    "Price": 5
+  },
+  {
+    "FilmId": 3,
+    "Name": "A Star Is Born",
+    "Year": 2018,
+    "Price": 9
+  }
+]
